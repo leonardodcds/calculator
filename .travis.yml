@@ -4,7 +4,7 @@ python:
   - "3.8"
 
 script:
-  - pytest test.py
+  - pytest tests.py
 
 notifications:
   email:
